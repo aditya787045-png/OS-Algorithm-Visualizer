@@ -250,12 +250,9 @@ Invalid inputs, such as negative burst times, invalid time quantum values, and o
 
 ## 👥 Team
 
-- **Team Member 1:** [Your Name] — [Roll Number]
-- **Team Member 2:** [Name] — [Roll Number]
-- **Team Member 3:** [Name] — [Roll Number]
-- **Team Member 4:** [Name] — [Roll Number]
-- **Project Guide:** [Guide Name]
-- **Institution:** [College / University Name]
+- **Team Member 1: Aditya Kumar Sahu -[24BAI0128]
+- **Team Member 2: Rishav Kumar Manjhi - [24BAI0001]
+- **Team Member 3: Priyanshu Raj
 
 ## 📄 License
 
